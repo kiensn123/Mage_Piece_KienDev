@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "415184194981",
+    "firebase_url": "https://mage-piece-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mage-piece",
+    "storage_bucket": "mage-piece.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415184194981:android:8387935d95b02588cf6c4c",
+        "android_client_info": {
+          "package_name": "com.ktstudio.platformer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17LNdQlhl_OHTvzcSJWOiNlHmt5n5F3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
